@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.5234ee91.chunk.css",
-    "main.js": "/static/js/main.9d9ae2fb.chunk.js",
-    "main.js.map": "/static/js/main.9d9ae2fb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.279981f4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.279981f4.js.map",
-    "static/js/2.a9899fc9.chunk.js": "/static/js/2.a9899fc9.chunk.js",
-    "static/js/2.a9899fc9.chunk.js.map": "/static/js/2.a9899fc9.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.5234ee91.chunk.css.map": "/static/css/main.5234ee91.chunk.css.map",
-    "static/js/2.a9899fc9.chunk.js.LICENSE.txt": "/static/js/2.a9899fc9.chunk.js.LICENSE.txt"
+    "main.css": "/React-App-Gifphy/static/css/main.5234ee91.chunk.css",
+    "main.js": "/React-App-Gifphy/static/js/main.9d9ae2fb.chunk.js",
+    "main.js.map": "/React-App-Gifphy/static/js/main.9d9ae2fb.chunk.js.map",
+    "runtime-main.js": "/React-App-Gifphy/static/js/runtime-main.9f159de0.js",
+    "runtime-main.js.map": "/React-App-Gifphy/static/js/runtime-main.9f159de0.js.map",
+    "static/js/2.a9899fc9.chunk.js": "/React-App-Gifphy/static/js/2.a9899fc9.chunk.js",
+    "static/js/2.a9899fc9.chunk.js.map": "/React-App-Gifphy/static/js/2.a9899fc9.chunk.js.map",
+    "index.html": "/React-App-Gifphy/index.html",
+    "static/css/main.5234ee91.chunk.css.map": "/React-App-Gifphy/static/css/main.5234ee91.chunk.css.map",
+    "static/js/2.a9899fc9.chunk.js.LICENSE.txt": "/React-App-Gifphy/static/js/2.a9899fc9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.279981f4.js",
+    "static/js/runtime-main.9f159de0.js",
     "static/js/2.a9899fc9.chunk.js",
     "static/css/main.5234ee91.chunk.css",
     "static/js/main.9d9ae2fb.chunk.js"
